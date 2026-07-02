@@ -1,5 +1,5 @@
 # Environment — never commit real credentials
-.env
+backend/.env
 
 # Python
 __pycache__/
@@ -19,16 +19,23 @@ venv/
 env/
 
 # Storage — generated at runtime, can be large
-storage/uploads/
-storage/charts/
-storage/faiss_indexes/
-storage/reports/
+backend/storage/uploads/
+backend/storage/charts/
+backend/storage/faiss_indexes/
+backend/storage/reports/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+
+# Claude Code session state
+.claude/
 
 # OS
 .DS_Store
