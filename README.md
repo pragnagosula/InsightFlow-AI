@@ -1,6 +1,6 @@
 # InsightFlow AI
 
-InsightFlow AI is a multi-agent data analysis assistant. Upload CSV/Excel datasets and PDF/Word/text documents into a workspace, then chat with an AI pipeline that cleans your data, analyzes it, retrieves relevant document context, generates charts, and returns a grounded natural-language answer.
+InsightFlow AI is a multi-agent data analysis assistant. Upload CSV/Excel datasets and PDF/Word/text documents into a workspace, then chat with an AI pipeline that cleans your data, analyzes it, retrieves relevant  document context, generates charts, and returns a grounded natural-language answer.
 
 ## How it works
 
